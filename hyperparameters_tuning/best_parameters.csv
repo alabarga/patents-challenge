@@ -1,0 +1,2 @@
+eta,eval_metric,gamma,lambda,max_depth,min_child_weight,objective,silent,subsample,score
+0.02,auc,0.8,0.2,10,6.0,binary:logistic,0,0.8,0.714232133452
